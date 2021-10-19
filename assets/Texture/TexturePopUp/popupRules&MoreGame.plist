@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{241,776},{98,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{98,98}}</string>
+				<key>sourceSize</key>
+				<string>{98,98}</string>
+			</dict>
+
+			<key>Layer 19.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,715},{419,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{419,60}}</string>
+				<key>sourceSize</key>
+				<string>{419,60}</string>
+			</dict>
+
+			<key>X.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{431,869},{75,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{75,114}}</string>
+				<key>sourceSize</key>
+				<string>{75,114}</string>
+			</dict>
+
+			<key>bt_download.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,953},{114,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{114,68}}</string>
+				<key>sourceSize</key>
+				<string>{114,68}</string>
+			</dict>
+
+			<key>feedback.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,776},{168,83}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{168,83}}</string>
+				<key>sourceSize</key>
+				<string>{168,83}</string>
+			</dict>
+
+			<key>ketnoifacebook.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,860},{120,89}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{120,89}}</string>
+				<key>sourceSize</key>
+				<string>{120,89}</string>
+			</dict>
+
+			<key>logo_tank1990_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{241,875},{96,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{96,96}}</string>
+				<key>sourceSize</key>
+				<string>{96,96}</string>
+			</dict>
+
+			<key>popup.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{557,714}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{557,714}}</string>
+				<key>sourceSize</key>
+				<string>{557,714}</string>
+			</dict>
+
+			<key>popupGame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{558,0},{557,714}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{557,714}}</string>
+				<key>sourceSize</key>
+				<string>{557,714}</string>
+			</dict>
+
+			<key>rate.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{121,860},{119,92}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{119,92}}</string>
+				<key>sourceSize</key>
+				<string>{119,92}</string>
+			</dict>
+
+			<key>soccerhand.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{338,875},{92,92}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{92,92}}</string>
+				<key>sourceSize</key>
+				<string>{92,92}</string>
+			</dict>
+
+			<key>supperhead.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{340,776},{92,92}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{92,92}}</string>
+				<key>sourceSize</key>
+				<string>{92,92}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{2048,1024}</string>
+			<key>textureFileName</key>
+			<string>popupRules&MoreGame.png</string>
+			</dict>
+		</dict>
+</plist>

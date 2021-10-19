@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Layer 14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{197,0},{68,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{68,68}}</string>
+				<key>sourceSize</key>
+				<string>{68,68}</string>
+			</dict>
+
+			<key>Layer 15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{127,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{127,68}}</string>
+				<key>sourceSize</key>
+				<string>{127,68}</string>
+			</dict>
+
+			<key>co.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,143},{72,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{72,73}}</string>
+				<key>sourceSize</key>
+				<string>{72,73}</string>
+			</dict>
+
+			<key>da.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{73,143},{72,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{72,72}}</string>
+				<key>sourceSize</key>
+				<string>{72,72}</string>
+			</dict>
+
+			<key>gach.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,69},{75,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{75,73}}</string>
+				<key>sourceSize</key>
+				<string>{75,73}</string>
+			</dict>
+
+			<key>open1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{76,69},{68,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{68,68}}</string>
+				<key>sourceSize</key>
+				<string>{68,68}</string>
+			</dict>
+
+			<key>open2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{146,138},{68,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{68,68}}</string>
+				<key>sourceSize</key>
+				<string>{68,68}</string>
+			</dict>
+
+			<key>open3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{145,69},{68,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{68,68}}</string>
+				<key>sourceSize</key>
+				<string>{68,68}</string>
+			</dict>
+
+			<key>open4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{128,0},{68,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{68,68}}</string>
+				<key>sourceSize</key>
+				<string>{68,68}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{512,256}</string>
+			<key>textureFileName</key>
+			<string>mapBang.png</string>
+			</dict>
+		</dict>
+</plist>

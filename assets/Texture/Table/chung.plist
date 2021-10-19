@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Group 11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{127,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{127,68}}</string>
+				<key>sourceSize</key>
+				<string>{127,68}</string>
+			</dict>
+
+			<key>Layer 14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{207,138},{68,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{68,68}}</string>
+				<key>sourceSize</key>
+				<string>{68,68}</string>
+			</dict>
+
+			<key>Layer 15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,69},{127,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{127,68}}</string>
+				<key>sourceSize</key>
+				<string>{127,68}</string>
+			</dict>
+
+			<key>bombdeath.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{128,69},{68,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{68,68}}</string>
+				<key>sourceSize</key>
+				<string>{68,68}</string>
+			</dict>
+
+			<key>bombrevealed.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{266,0},{68,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{68,68}}</string>
+				<key>sourceSize</key>
+				<string>{68,68}</string>
+			</dict>
+
+			<key>bomp_disposal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,207},{33,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{33,37}}</string>
+				<key>sourceSize</key>
+				<string>{33,37}</string>
+			</dict>
+
+			<key>co68.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{197,69},{68,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{68,68}}</string>
+				<key>sourceSize</key>
+				<string>{68,68}</string>
+			</dict>
+
+			<key>da68.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{197,0},{68,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{68,68}}</string>
+				<key>sourceSize</key>
+				<string>{68,68}</string>
+			</dict>
+
+			<key>open1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{138,138},{68,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{68,68}}</string>
+				<key>sourceSize</key>
+				<string>{68,68}</string>
+			</dict>
+
+			<key>open2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{128,0},{68,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{68,68}}</string>
+				<key>sourceSize</key>
+				<string>{68,68}</string>
+			</dict>
+
+			<key>open3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{69,138},{68,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{68,68}}</string>
+				<key>sourceSize</key>
+				<string>{68,68}</string>
+			</dict>
+
+			<key>open4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,138},{68,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{68,68}}</string>
+				<key>sourceSize</key>
+				<string>{68,68}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{512,256}</string>
+			<key>textureFileName</key>
+			<string>chung.png</string>
+			</dict>
+		</dict>
+</plist>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>bt_luatchoi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{206,386},{129,123}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{129,123}}</string>
+				<key>sourceSize</key>
+				<string>{129,123}</string>
+			</dict>
+
+			<key>bt_moregame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{206,262},{129,123}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{129,123}}</string>
+				<key>sourceSize</key>
+				<string>{129,123}</string>
+			</dict>
+
+			<key>bt_play.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,262},{205,205}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{205,205}}</string>
+				<key>sourceSize</key>
+				<string>{205,205}</string>
+			</dict>
+
+			<key>logo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{619,261}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{619,261}}</string>
+				<key>sourceSize</key>
+				<string>{619,261}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{1024,512}</string>
+			<key>textureFileName</key>
+			<string>home.png</string>
+			</dict>
+		</dict>
+</plist>

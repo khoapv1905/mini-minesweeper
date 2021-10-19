@@ -1,0 +1,70 @@
+{
+"skeleton": {
+	"hash": "qxXDZXx6dQxb59wZdrq9OZ7RLqI",
+	"spine": "3.8.99",
+	"x": -241,
+	"y": -274,
+	"width": 482,
+	"height": 548,
+	"images": "./failed/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Layer 56", "parent": "root", "x": -176.12, "y": 159.41 }
+],
+"slots": [
+	{ "name": "root", "bone": "root", "attachment": "root" },
+	{ "name": "mask", "bone": "root", "attachment": "mask" },
+	{ "name": "Layer 56", "bone": "Layer 56", "attachment": "Layer 56" },
+	{ "name": "black", "bone": "root", "attachment": "black" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Layer 56": {
+				"Layer 56": { "x": 4.65, "y": 44.33, "width": 51, "height": 92 }
+			},
+			"black": {
+				"black": { "scaleX": 2, "scaleY": 2, "width": 241, "height": 274 }
+			},
+			"mask": {
+				"mask": {
+					"type": "clipping",
+					"end": "Layer 56",
+					"vertexCount": 4,
+					"vertices": [ -201.67, 250.87, -149.37, 251.09, -148.56, 151.77, -201.39, 151.99 ],
+					"color": "ce3a3aff"
+				}
+			},
+			"root": {
+				"root": {
+					"type": "clipping",
+					"end": "mask",
+					"vertexCount": 5,
+					"vertices": [ 255.44, 268.14, 258.12, -296.34, -263.35, -300.37, -257.97, 292.33, 254.09, 293.68 ],
+					"color": "ce3a3aff"
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"Layer 56": {
+				"translate": [
+					{ "y": 145.33, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "curve": "stepped" },
+					{ "time": 1.1667 }
+				],
+				"scale": [
+					{ "y": 1.737, "curve": 0.465, "c2": 0.09, "c3": 0.395, "c4": 0.36 },
+					{ "time": 0.8333 }
+				]
+			}
+		}
+	}
+}
+}

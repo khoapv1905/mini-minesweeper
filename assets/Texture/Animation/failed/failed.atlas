@@ -1,0 +1,20 @@
+
+failed.png
+size: 331,331
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 56
+  rotate: true
+  xy: 2, 2
+  size: 51, 92
+  orig: 51, 92
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 2, 55
+  size: 241, 274
+  orig: 241, 274
+  offset: 0, 0
+  index: -1

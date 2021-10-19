@@ -1,0 +1,188 @@
+
+lucky wheel.png
+size: 1591,1591
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 714, 605
+  size: 337, 329
+  orig: 337, 329
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1104, 1253
+  size: 345, 336
+  orig: 345, 336
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 659, 3
+  size: 325, 307
+  orig: 325, 307
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 328, 4
+  size: 329, 319
+  orig: 329, 319
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 2, 2
+  size: 324, 321
+  orig: 324, 321
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 968, 25
+  size: 323, 301
+  orig: 323, 301
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1439, 1097
+  size: 148, 154
+  orig: 148, 154
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1360, 694
+  size: 222, 229
+  orig: 222, 229
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 333, 327
+  size: 273, 276
+  orig: 273, 276
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 1053, 610
+  size: 306, 305
+  orig: 306, 305
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 325
+  size: 329, 321
+  orig: 329, 321
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1097, 918
+  size: 340, 333
+  orig: 340, 333
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 369, 927
+  size: 343, 331
+  orig: 343, 331
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 750, 936
+  size: 345, 323
+  orig: 345, 323
+  offset: 0, 0
+  index: -1
+a10
+  rotate: false
+  xy: 378, 1260
+  size: 370, 329
+  orig: 370, 329
+  offset: 0, 0
+  index: -1
+a11
+  rotate: false
+  xy: 2, 1286
+  size: 374, 303
+  orig: 374, 303
+  offset: 0, 0
+  index: -1
+a12
+  rotate: false
+  xy: 2, 648
+  size: 341, 303
+  orig: 341, 303
+  offset: 0, 0
+  index: -1
+a13
+  rotate: true
+  xy: 608, 330
+  size: 273, 262
+  orig: 273, 262
+  offset: 0, 0
+  index: -1
+a2
+  rotate: true
+  xy: 1451, 1403
+  size: 84, 99
+  orig: 84, 99
+  offset: 0, 0
+  index: -1
+a3
+  rotate: true
+  xy: 1451, 1489
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 1271, 120
+  size: 191, 196
+  orig: 191, 196
+  offset: 0, 0
+  index: -1
+a5
+  rotate: false
+  xy: 872, 350
+  size: 252, 253
+  orig: 252, 253
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 1271, 318
+  size: 299, 290
+  orig: 299, 290
+  offset: 0, 0
+  index: -1
+a7
+  rotate: false
+  xy: 345, 614
+  size: 330, 311
+  orig: 330, 311
+  offset: 0, 0
+  index: -1
+a8
+  rotate: false
+  xy: 750, 1261
+  size: 352, 328
+  orig: 352, 328
+  offset: 0, 0
+  index: -1
+a9
+  rotate: false
+  xy: 2, 953
+  size: 365, 331
+  orig: 365, 331
+  offset: 0, 0
+  index: -1

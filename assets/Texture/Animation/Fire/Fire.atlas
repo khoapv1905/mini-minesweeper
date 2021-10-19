@@ -1,0 +1,41 @@
+
+Fire.png
+size: 500,500
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 23
+  rotate: false
+  xy: 2, 388
+  size: 349, 110
+  orig: 349, 110
+  offset: 0, 0
+  index: -1
+Layer 24
+  rotate: true
+  xy: 157, 378
+  size: 8, 164
+  orig: 8, 164
+  offset: 0, 0
+  index: -1
+Layer 25
+  rotate: false
+  xy: 353, 354
+  size: 145, 144
+  orig: 145, 144
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 2, 325
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+smoke2
+  rotate: false
+  xy: 86, 334
+  size: 69, 52
+  orig: 69, 52
+  offset: 0, 0
+  index: -1

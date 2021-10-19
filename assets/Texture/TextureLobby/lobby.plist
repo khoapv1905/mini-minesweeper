@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Layer 12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{598,0},{551,891}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{551,891}}</string>
+				<key>sourceSize</key>
+				<string>{551,891}</string>
+			</dict>
+
+			<key>Layer 13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1150,0},{546,870}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{546,870}}</string>
+				<key>sourceSize</key>
+				<string>{546,870}</string>
+			</dict>
+
+			<key>Layer 14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{597,849}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{597,849}}</string>
+				<key>sourceSize</key>
+				<string>{597,849}</string>
+			</dict>
+
+			<key>Layer 15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1697,251},{157,250}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{157,250}}</string>
+				<key>sourceSize</key>
+				<string>{157,250}</string>
+			</dict>
+
+			<key>Layer 16.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1697,502},{154,250}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{154,250}}</string>
+				<key>sourceSize</key>
+				<string>{154,250}</string>
+			</dict>
+
+			<key>Layer 17.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1697,0},{176,250}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{176,250}}</string>
+				<key>sourceSize</key>
+				<string>{176,250}</string>
+			</dict>
+
+			<key>Layer 18.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,850},{121,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{121,77}}</string>
+				<key>sourceSize</key>
+				<string>{121,77}</string>
+			</dict>
+
+			<key>Layer 20.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,928},{56,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{56,55}}</string>
+				<key>sourceSize</key>
+				<string>{56,55}</string>
+			</dict>
+
+			<key>Layer 21.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{114,928},{56,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{56,55}}</string>
+				<key>sourceSize</key>
+				<string>{56,55}</string>
+			</dict>
+
+			<key>Layer 22.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{57,928},{56,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{56,55}}</string>
+				<key>sourceSize</key>
+				<string>{56,55}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{2048,1024}</string>
+			<key>textureFileName</key>
+			<string>lobby.png</string>
+			</dict>
+		</dict>
+</plist>

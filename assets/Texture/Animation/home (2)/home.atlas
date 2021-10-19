@@ -1,0 +1,27 @@
+
+home.png
+size: 889,889
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bt_play
+  rotate: false
+  xy: 254, 614
+  size: 273, 273
+  orig: 273, 273
+  offset: 0, 0
+  index: -1
+shine
+  rotate: false
+  xy: 2, 637
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 529, 557
+  size: 330, 358
+  orig: 330, 358
+  offset: 0, 0
+  index: -1
